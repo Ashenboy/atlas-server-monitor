@@ -4,6 +4,9 @@
 Atlas Server Monitor helps you track CPU, memory, disk usage, and network traffic across multiple servers with beautiful visualizations and intelligent alerting.
 
 ---
+![image](https://github.com/user-attachments/assets/ed6505c4-3390-4d86-9936-5c172f2225d1)
+![image](https://github.com/user-attachments/assets/691b9697-8a36-4566-b631-84e60c1e21b0)
+
 
 ## ✨ Features
 
