@@ -2,7 +2,7 @@ import React, { useEffect, useState, useCallback } from 'react';
 import axios from 'axios';
 import io from 'socket.io-client';
 
-const API_URL = process.env.REACT_APP_API_URL;
+const API_URL = "http://localhost:4000"; // Update with your backend API URL
 
 // Icons as React components (simple SVG icons)
 const Icons = {

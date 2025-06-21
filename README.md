@@ -92,7 +92,7 @@ npm start
 cd frontend
 npm install
 
-cp .env.example .env  # Set backend API URL
+nano src/App.js  # Set backend API URL
 npm start             # For development
 npm run build         # For production
 ```
